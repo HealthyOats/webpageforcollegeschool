@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#class-schedule-table, #class-schedule-table td, #class-schedule-table th {
+    border: 1px solid black;
+    border-spacing: 3px;
+}
+#class-schedule-table th, #class-schedule-table td {
+    padding: 3px;
+    width: 100px;
+}
+
+#haiku-text {
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#pictureOfBrandon {
+    float: right;
+}
+
+
+.CS2550 {
+    background-color: pink;
+}
+
+.CS305G {
+    background-color: lightblue;
+}
+
+.homework {
+    background-color: cornflowerblue; /* best color */
+}
+
+.COMM2110 {
+    background-color: burlywood;
+}
+
+.Dinner {
+    background-color: chocolate;
+}
+
+.CS2600 {
+    background-color: crimson;
+}
